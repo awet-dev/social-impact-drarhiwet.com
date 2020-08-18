@@ -3976,9 +3976,6 @@ input, select, textarea {
 #two .actions {
 	margin-top: 1rem;
 }
-.font-small {
-	font-size: 1rem;
-}
 .bg {
 	background: #ffffff;
 }
@@ -3991,5 +3988,5 @@ input, select, textarea {
 }
 .width {
 	width: 80px;
-	height: 80px;
+	height: auto;
 }
