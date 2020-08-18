@@ -3973,3 +3973,9 @@ input, select, textarea {
 	position: relative;
 	top: 1rem;
 }
+#two .actions {
+	margin-top: 1rem;
+}
+.font-small {
+	font-size: 1rem;
+}
