@@ -3979,3 +3979,13 @@ input, select, textarea {
 .font-small {
 	font-size: 1rem;
 }
+.bg {
+	background: #ffffff;
+}
+.border {
+	border: 1px solid transparent;
+	border-radius: .2rem;
+	width: max-content;
+	color: #302f2f;
+	padding: 1px 10px;
+}
